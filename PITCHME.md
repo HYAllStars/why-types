@@ -70,7 +70,7 @@ You can even type stuff on top of your handwritten slide
 
 ---
 
-### Papers
+@title[Papers]
 
 @snap[west span-55]
 @ul[spaced text-white]
@@ -82,7 +82,7 @@ You can even type stuff on top of your handwritten slide
 
 ---
 
-### Papers (without formatting)
+### Papers (without special formatting)
 
 - *From System F to Typed Assembly Language*  
   by Morrisett, Walker, Crary, and Glew, 1999.

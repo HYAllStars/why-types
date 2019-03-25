@@ -23,13 +23,15 @@ Programming Languages
 
 ## Example: screenshot of your handwritten slide
 
+these can appear inside a slide, like this
+
 ![](assets/img/01_gradual_compiler.jpg)
 
 ---
 
-## Example: handwritten notes as a full slide
+## Example: handwritten slide
 
-will appear on the very next slide...
+or as the entire slide... (as you'll see on the next slide)
 
 ---?image=assets/img/01_gradual_compiler.jpg
 
@@ -40,20 +42,37 @@ will appear on the very next slide...
 
 ---
 
-## Papers
+
+---?color=#E58537
+@title[Papers]
+
+@snap[north-west]
+#### Some @color[cyan](**fun**) papers!
+@snapend
 
 @snap[west span-55]
 @ul[spaced text-white]
-- *From System F to Typed Assembly Language*  
-  by Morrisett, Walker, Crary, and Glew, 1999.
-- *Explicit Polymorphism and CPS Conversion*  
-  by Harper and Lilibridge, 1993.
-- *Typed Closure Conversion*  
-  by Minamide, Morrisett, and Harper, 1996.
+- *From System F to Typed Assembly Language*, Morrisett, Walker, Crary, Glew (1999)
+- *Explicit Polymorphism and CPS Conversion*, Harper, Lilibridge (1993)
+- *Typed Closure Conversion*, Minamide, Morrisett, Harper (1996)
 @ulend
 @snapend
 
+@snap[east span-45]
+@img[shadow](assets/img/harper.jpg)
+@snapend
+
 ---
+
+### Papers
+
+@snap[west span-55]
+@ul[spaced text-white]
+- *From System F to Typed Assembly Language* by Morrisett, Walker, Crary, and Glew, 1999.
+- *Explicit Polymorphism and CPS Conversion* by Harper and Lilibridge, 1993.
+- *Typed Closure Conversion* by Minamide, Morrisett, and Harper, 1996.
+@ulend
+@snapend
 
 ---
 
@@ -61,8 +80,10 @@ will appear on the very next slide...
 
 - *From System F to Typed Assembly Language*  
   by Morrisett, Walker, Crary, and Glew, 1999.
+
 - *Explicit Polymorphism and CPS Conversion*  
   by Harper and Lilibridge, 1993.
+  
 - *Typed Closure Conversion*  
   by Minamide, Morrisett, and Harper, 1996.
 

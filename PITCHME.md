@@ -15,23 +15,56 @@ Programming Languages
 
 ---
 
-## Add Some Slide Candy
+## You can add images like this
 
 ![](assets/img/presentation.png)
 
 ---
 
-## You can add images
-
-...of your handwritten slides, for example, like this:
+## Example: screenshot of your handwritten slide
 
 ![](assets/img/01_gradual_compiler.jpg)
 
 ---
 
-## ...or as a full slide, like the next one...
+## Example: handwritten notes as a full slide
+
+will appear on the very next slide...
 
 ---?image=assets/img/01_gradual_compiler.jpg
+
+---
+# Examples of unordered lists
+
+...will appear on the next two slides
+
+---
+
+## Papers
+
+@snap[west span-55]
+@ul[spaced text-white]
+- *From System F to Typed Assembly Language*  
+  by Morrisett, Walker, Crary, and Glew, 1999.
+- *Explicit Polymorphism and CPS Conversion*  
+  by Harper and Lilibridge, 1993.
+- *Typed Closure Conversion*  
+  by Minamide, Morrisett, and Harper, 1996.
+@ulend
+@snapend
+
+---
+
+---
+
+## Papers (without formatting)
+
+- *From System F to Typed Assembly Language*  
+  by Morrisett, Walker, Crary, and Glew, 1999.
+- *Explicit Polymorphism and CPS Conversion*  
+  by Harper and Lilibridge, 1993.
+- *Typed Closure Conversion*  
+  by Minamide, Morrisett, and Harper, 1996.
 
 ---
 

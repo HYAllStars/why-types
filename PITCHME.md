@@ -36,6 +36,14 @@ or as the entire slide... (as you'll see on the next slide)
 ---?image=assets/img/01_gradual_compiler.jpg
 
 ---
+
+---?image=assets/img/01_gradual_compiler.jpg
+
+You can even type stuff on top of your handwritten slide
+
+---
+
+
 # Examples of unordered lists
 
 ...will appear on the next two slides
@@ -62,7 +70,7 @@ or as the entire slide... (as you'll see on the next slide)
 
 ---
 
-## Papers
+### Papers
 
 @snap[west span-55]
 @ul[spaced text-white]
@@ -74,7 +82,7 @@ or as the entire slide... (as you'll see on the next slide)
 
 ---
 
-## Papers (without formatting)
+### Papers (without formatting)
 
 - *From System F to Typed Assembly Language*  
   by Morrisett, Walker, Crary, and Glew, 1999.

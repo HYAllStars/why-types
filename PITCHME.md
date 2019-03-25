@@ -21,9 +21,17 @@ Programming Languages
 
 ---
 
-## First actual slide
+## You can add images
+
+...of your handwritten slides, for example, like this:
 
 ![](assets/img/01_gradual_compiler.jpg)
+
+---
+
+## ...or as a full slide, 
+
+---?image=assets/img/01_gradual_compiler.jpg
 
 ---
 
@@ -36,10 +44,6 @@ Programming Languages
 @snap[east span-50]
 ![](assets/img/presentation.png)
 @snapend
-
----
-
----?image=assets/img/01_gradual_compiler.jpg
 
 ---
 

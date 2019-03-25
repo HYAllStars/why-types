@@ -37,9 +37,11 @@ or as the entire slide... (as you'll see on the next slide)
 
 ---
 
+You can even type stuff on top of your handwritten slide
+
 ---?image=assets/img/01_gradual_compiler.jpg
 
-You can even type stuff on top of your handwritten slide
+@color[blue](check it out,) @color[pink](biyatches!)
 
 ---
 

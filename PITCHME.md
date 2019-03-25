@@ -29,7 +29,7 @@ Programming Languages
 
 ---
 
-## ...or as a full slide, 
+## ...or as a full slide, like the next one...
 
 ---?image=assets/img/01_gradual_compiler.jpg
 

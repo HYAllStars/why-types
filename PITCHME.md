@@ -54,6 +54,8 @@ or as the entire slide... (as you'll see on the next slide)
 @ul[spaced text-white]
 - *From System F to Typed Assembly Language*, Morrisett, Walker, Crary, Glew (1999) @img[shadow](assets/img/morrisett.jpg)
 
+  ![](assets/img/harper.jpg)
+
 - *Explicit Polymorphism and CPS Conversion*, Harper, Lilibridge (1993) @img[shadow](assets/img/harper.jpg)
 
 - *Typed Closure Conversion*, Minamide, Morrisett, Harper (1996) @img[shadow](assets/img/minamide.jpg)
@@ -62,7 +64,7 @@ or as the entire slide... (as you'll see on the next slide)
 
 ---
 
-### Papers
+## Papers
 
 @snap[west span-55]
 @ul[spaced text-white]

@@ -70,12 +70,16 @@ You can even type stuff on top of your handwritten slide
 
 ---
 
-@title[Papers]
+@snap[north-west]
+#### @color[red](**fun**) @color[white](**fun**) @color[blue](**fun**)!
+@snapend
 
 @snap[west span-55]
 @ul[spaced text-white]
 - *From System F to Typed Assembly Language* by Morrisett, Walker, Crary, and Glew, 1999.
+
 - *Explicit Polymorphism and CPS Conversion* by Harper and Lilibridge, 1993.
+
 - *Typed Closure Conversion* by Minamide, Morrisett, and Harper, 1996.
 @ulend
 @snapend
